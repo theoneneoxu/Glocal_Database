@@ -1,4 +1,3 @@
-
 --views
 create or replace view view_config_business_attr_drop
 as
